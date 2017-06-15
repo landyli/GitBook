@@ -1,3 +1,2 @@
 # GitBook
-~~Hello World
-**liyan
+~~Hello World~~
